@@ -1,0 +1,11 @@
+kr\ac\kku\cs\wp\wsd\model\Donation.class
+kr\ac\kku\cs\wp\wsd\model\User.class
+kr\ac\kku\cs\wp\wsd\dao\UserDAO.class
+kr\ac\kku\cs\wp\wsd\servlet\RegisterServlet.class
+kr\ac\kku\cs\wp\wsd\servlet\DonationSearchServlet.class
+kr\ac\kku\cs\wp\wsd\dao\RecipientDAO.class
+kr\ac\kku\cs\wp\wsd\dao\DonationDAO.class
+kr\ac\kku\cs\wp\wsd\servlet\UserInfoServlet.class
+kr\ac\kku\cs\wp\wsd\util\DatabaseUtil.class
+kr\ac\kku\cs\wp\wsd\model\Recipient.class
+kr\ac\kku\cs\wp\wsd\servlet\LoginServlet.class
